@@ -1,0 +1,46 @@
+# Compiled binary files
+/bin/
+/obj/
+
+# User-specific files
+*.user
+*.rsuser
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Auto-generated files
+*.csproj.user
+*.vspscc
+*.vssscc
+*.log
+.vscode/
+.vs/
+.vscode/
+*.appsetting.json
+**/AppPackages/
+**/App_Data/
+# Azure Web App deploy files
+.terraform
+.terraform.lock.hcl
+
+# Mono Auto Generated Files
+mono_crash.*
+
+# Mac files
+.DS_Store
+*.dSYM
+*.DS_Store
+._*
+
+# Windows image file caches
+Thumbs.db
+
+# Others
+.vscode/
+.idea/
+*.plist
+.env
+*.swp
+.svn
+
