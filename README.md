@@ -1,4 +1,8 @@
 # C sharp
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%.svg?style=for-the-badge&logo=csharp&logoColor=white)
+
+
 
 ### New Project
 
@@ -30,3 +34,10 @@ dotnet run
 ### Documentation
 
 1. [Microsoft](https://learn.microsoft.com/dotnet/csharp)
+
+
+### IDE
+
+1. Visual Studio
+2. Geany - The Flyweaght IDE
+3. Visual Stuido Code
