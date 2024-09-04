@@ -419,3 +419,8 @@ dotnet run
 1. [Visual Studio](https://visualstudio.microsoft.com/)
 2. [Geany - The Flyweaght IDE](https://www.geany.org/)
 3. [Visual Stuido Code](https://code.visualstudio.com/)
+
+    - **Extensions**
+
+        - [Codeium](https://codeium.com/vscode_tutorial)
+
