@@ -97,7 +97,7 @@ dotnet run
 
 - [x] 019 - Contacto con las "excepciones" (05:25) https://youtu.be/IYD7a-aAYwk
 
-- [ ] 020 - Nociones de depuración (06:14) https://youtu.be/yfKrqZWBFtk
+- [x] 020 - Nociones de depuración (06:14) https://youtu.be/yfKrqZWBFtk
 
 - [ ] E02b - Ejemplos de estructuras repetitivas (16:26) https://youtu.be/vPNIBiIxjPs
 
