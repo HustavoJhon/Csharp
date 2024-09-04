@@ -99,9 +99,9 @@ dotnet run
 
 - [x] 020 - Nociones de depuración (06:14) https://youtu.be/yfKrqZWBFtk
 
-- [ ] E02b - Ejemplos de estructuras repetitivas (16:26) https://youtu.be/vPNIBiIxjPs
+- [x] E02b - Ejemplos de estructuras repetitivas (16:26) https://youtu.be/vPNIBiIxjPs
 
-- [ ] 021 - Tipos de números enteros (10:10) https://youtu.be/LBKZLZHBvVI
+- [x] 021 - Tipos de números enteros (10:10) https://youtu.be/LBKZLZHBvVI
 
 - [ ] 022 - Incremento, decremento y otras operaciones abreviadas (10:18) https://youtu.be/CUfvGmODbgs
 
