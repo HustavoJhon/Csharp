@@ -107,7 +107,7 @@ dotnet run
 
 - [x] 023 - Contacto con los números reales (10:48) https://youtu.be/ZrGVSWHa2Pw
 
-- [ ] 024 - Formato de números, typecast, cambio de base (11:49) https://youtu.be/Bvhkj3hx1Ww
+- [x] 024 - Formato de números, typecast, cambio de base (11:49) https://youtu.be/Bvhkj3hx1Ww
 
 - [ ] 025 - Funciones matemáticas incorporadas (05:11) https://youtu.be/nVEGDactxnY
 
