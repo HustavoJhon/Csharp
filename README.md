@@ -103,9 +103,9 @@ dotnet run
 
 - [x] 021 - Tipos de números enteros (10:10) https://youtu.be/LBKZLZHBvVI
 
-- [ ] 022 - Incremento, decremento y otras operaciones abreviadas (10:18) https://youtu.be/CUfvGmODbgs
+- [x] 022 - Incremento, decremento y otras operaciones abreviadas (10:18) https://youtu.be/CUfvGmODbgs
 
-- [ ] 023 - Contacto con los números reales (10:48) https://youtu.be/ZrGVSWHa2Pw
+- [x] 023 - Contacto con los números reales (10:48) https://youtu.be/ZrGVSWHa2Pw
 
 - [ ] 024 - Formato de números, typecast, cambio de base (11:49) https://youtu.be/Bvhkj3hx1Ww
 
