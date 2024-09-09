@@ -121,7 +121,7 @@ dotnet run
 
 - [x] 029 - Constantes y enumeraciones (11:23) https://youtu.be/N8RE1fHCViw
 
-- [ ] E03b - Ejemplos de otros tipos de datos básicos (14:!5) https://youtu.be/tb0yk71vcqM
+- [x] E03b - Ejemplos de otros tipos de datos básicos (14:!5) https://youtu.be/tb0yk71vcqM
 
 - [ ] 030 - Variables con tipo implícito (var) (02:57) https://youtu.be/y246BtV3mjM
 
