@@ -119,7 +119,7 @@ dotnet run
 
 - [x] 028 - Booleanos (08:39) https://youtu.be/CRYZysF81ds
 
-- [ ] 029 - Constantes y enumeraciones (11:23) https://youtu.be/N8RE1fHCViw
+- [x] 029 - Constantes y enumeraciones (11:23) https://youtu.be/N8RE1fHCViw
 
 - [ ] E03b - Ejemplos de otros tipos de datos básicos (14:!5) https://youtu.be/tb0yk71vcqM
 
