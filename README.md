@@ -109,15 +109,15 @@ dotnet run
 
 - [x] 024 - Formato de números, typecast, cambio de base (11:49) https://youtu.be/Bvhkj3hx1Ww
 
-- [ ] 025 - Funciones matemáticas incorporadas (05:11) https://youtu.be/nVEGDactxnY
+- [x] 025 - Funciones matemáticas incorporadas (05:11) https://youtu.be/nVEGDactxnY
 
 - [ ] E03a - Ejemplos de tipos de datos numéricos (16:50) https://youtu.be/BM5O_UCLggY
 
-- [ ] 026 - Tipo de datos "char" (caracteres) (11:41) https://youtu.be/UvmuDZzOjZk
+- [x] 026 - Tipo de datos "char" (caracteres) (11:41) https://youtu.be/UvmuDZzOjZk
 
-- [ ] 027 - Contacto con los "string" (cadenas de texto) (06:16) https://youtu.be/z5An-W4l8UA
+- [x] 027 - Contacto con los "string" (cadenas de texto) (06:16) https://youtu.be/z5An-W4l8UA
 
-- [ ] 028 - Booleanos (08:39) https://youtu.be/CRYZysF81ds
+- [x] 028 - Booleanos (08:39) https://youtu.be/CRYZysF81ds
 
 - [ ] 029 - Constantes y enumeraciones (11:23) https://youtu.be/N8RE1fHCViw
 
