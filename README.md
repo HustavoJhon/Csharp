@@ -6,8 +6,11 @@
 Este repositorio documenta mi aprendizaje en programación con C# y .NET. Incluye proyectos, recursos, y ejemplos prácticos, desde los fundamentos hasta la creación de APIs REST con .NET 8
 <span>
 
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%.svg?style=for-the-badge&logo=csharp&logoColor=white)
+
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 
 </div>
 
