@@ -135,7 +135,7 @@ dotnet run
 
 - [x] 031 - Operaciones con bits (13:25) https://youtu.be/-OlCHRtkBVk
 
-- [ ] Contenido extra - Consola (14:27) https://youtu.be/s4lbII-gbIA
+- [x] Contenido extra - Consola (14:27) https://youtu.be/s4lbII-gbIA
 
 - [ ] 032 - Contacto con los arrays (12:46) https://youtu.be/JN8ySnT1YmM
 
