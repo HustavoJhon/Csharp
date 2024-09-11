@@ -131,7 +131,7 @@ dotnet run
 
 - [x] E03b - Ejemplos de otros tipos de datos básicos (14:!5) https://youtu.be/tb0yk71vcqM
 
-- [ ] 030 - Variables con tipo implícito (var) (02:57) https://youtu.be/y246BtV3mjM
+- [x] 030 - Variables con tipo implícito (var) (02:57) https://youtu.be/y246BtV3mjM
 
 - [ ] 031 - Operaciones con bits (13:25) https://youtu.be/-OlCHRtkBVk
 
