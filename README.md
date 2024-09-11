@@ -431,4 +431,5 @@ dotnet run
     - **Extensions**
 
         - [Codeium](https://codeium.com/vscode_tutorial)
+        - [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments)
 
