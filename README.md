@@ -133,7 +133,7 @@ dotnet run
 
 - [x] 030 - Variables con tipo implícito (var) (02:57) https://youtu.be/y246BtV3mjM
 
-- [ ] 031 - Operaciones con bits (13:25) https://youtu.be/-OlCHRtkBVk
+- [x] 031 - Operaciones con bits (13:25) https://youtu.be/-OlCHRtkBVk
 
 - [ ] Contenido extra - Consola (14:27) https://youtu.be/s4lbII-gbIA
 
