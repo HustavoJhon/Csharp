@@ -147,7 +147,7 @@ dotnet run
 
 - [x] 036 - Arrays bidimensionales (15:21) https://youtu.be/OWe8vB5UjZc
 
-- [ ] 037 - Arrays de arrays (09:29) https://youtu.be/uwFklzcV6-U
+- [x] 037 - Arrays de arrays (09:29) https://youtu.be/uwFklzcV6-U
 
 - [ ] E04a - Ejemplos de arrays (10:32) https://youtu.be/wvSpbYYgWPM
 
