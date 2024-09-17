@@ -159,7 +159,7 @@ dotnet run
 
 - [x] 040 - Strings, operaciones habituales (2) (07:36) https://youtu.be/K1vt89Q9NGQ
 
-- [ ] 041 - StringBuilder (07:21) https://youtu.be/m4vO9vGIHZo
+- [x] 041 - StringBuilder (07:21) https://youtu.be/m4vO9vGIHZo
 
 - [ ] E04c - Ejemplos de string (11:40) https://youtu.be/okdGzVkqO7s
 
