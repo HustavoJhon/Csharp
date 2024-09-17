@@ -151,7 +151,7 @@ dotnet run
 
 - [ ] E04a - Ejemplos de arrays (10:32) https://youtu.be/wvSpbYYgWPM
 
-- [ ] 038 - Structs (12:03) https://youtu.be/AYlwLtZ3zhE
+- [x] 038 - Structs (12:03) https://youtu.be/AYlwLtZ3zhE
 
 - [ ] E04b - Ejemplos de struct (07:51) https://youtu.be/71VWnuH8OB0
 
