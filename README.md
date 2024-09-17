@@ -157,7 +157,7 @@ dotnet run
 
 - [x] 039 - Strings, operaciones habituales (1) (12:25) https://youtu.be/09OFEawyS2c
 
-- [ ] 040 - Strings, operaciones habituales (2) (07:36) https://youtu.be/K1vt89Q9NGQ
+- [x] 040 - Strings, operaciones habituales (2) (07:36) https://youtu.be/K1vt89Q9NGQ
 
 - [ ] 041 - StringBuilder (07:21) https://youtu.be/m4vO9vGIHZo
 
