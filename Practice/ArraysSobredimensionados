@@ -1,0 +1,64 @@
+//! 035 - ARRAYS SOBREDIMENSIONADOS
+
+
+using System;
+using System.Reflection.Emit;
+
+class ArraySobredimensionado
+{
+    static void Main()
+    {
+        string[] frases = new string[1000];
+        string opcion;
+        int cantidad = 0;
+
+        do
+        {
+            Console.WriteLine("Escoge una opcion: ");
+            Console.WriteLine("1. Agregar frase");
+            Console.WriteLine("2. Mostrar todas las frases");
+            Console.WriteLine("3. Insertar");
+            Console.WriteLine("4. Borrar");
+            Console.WriteLine("0. Salir");
+
+            opcion = Console.ReadLine();
+
+            switch (opcion)
+            {
+                case "1":
+                    Console.Write("Dime un dato: ");
+                    string frase = Console.ReadLine();
+                    frases[cantidad] = frase;
+                    cantidad++;
+                    break;
+
+                case "2":
+                    for (int i = 0; i < cantidad; i++)
+                    {
+                        Console.WriteLine(frases[i]);
+                    }
+                    break;
+
+                case "3":
+                    int posicionInserta = 2;
+                    for (int i = cantidad;i > posicionInserta ; i--)
+                    {
+                        frases[i] = frases[i - 1];
+                    }
+                    frases[posicionInserta] = "Insertado";
+                    cantidad++;
+                    break;
+
+                case "4":
+                    int posicionBorra = 1;
+                    for (int i = posicionBorra; i < cantidad; i++)
+                    {
+                        frases[i] = frases[i + 1];
+                    }
+                    cantidad--;
+                    break;
+            }
+        }
+        while (opcion != "0");
+    }
+}
