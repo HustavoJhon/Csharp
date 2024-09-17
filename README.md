@@ -137,13 +137,13 @@ dotnet run
 
 - [x] Contenido extra - Consola (14:27) https://youtu.be/s4lbII-gbIA
 
-- [ ] 032 - Contacto con los arrays (12:46) https://youtu.be/JN8ySnT1YmM
+- [x] 032 - Contacto con los arrays (12:46) https://youtu.be/JN8ySnT1YmM
 
-- [ ] 033 - Buscar en un array, foreach (13:56) https://youtu.be/eq3e_93c9Gs
+- [x] 033 - Buscar en un array, foreach (13:56) https://youtu.be/eq3e_93c9Gs
 
-- [ ] 034 - Máximo (y mínimo) de un array (07:27) https://youtu.be/3b5QlkXiUnQ
+- [x] 034 - Máximo (y mínimo) de un array (07:27) https://youtu.be/3b5QlkXiUnQ
 
-- [ ] 035 - Arrays sobredimensionados (12:08) https://youtu.be/zrbhzlMI3-k
+- [x] 035 - Arrays sobredimensionados (12:08) https://youtu.be/zrbhzlMI3-k
 
 - [ ] 036 - Arrays bidimensionales (15:21) https://youtu.be/OWe8vB5UjZc
 
