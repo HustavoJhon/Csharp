@@ -145,7 +145,7 @@ dotnet run
 
 - [x] 035 - Arrays sobredimensionados (12:08) https://youtu.be/zrbhzlMI3-k
 
-- [ ] 036 - Arrays bidimensionales (15:21) https://youtu.be/OWe8vB5UjZc
+- [x] 036 - Arrays bidimensionales (15:21) https://youtu.be/OWe8vB5UjZc
 
 - [ ] 037 - Arrays de arrays (09:29) https://youtu.be/uwFklzcV6-U
 
