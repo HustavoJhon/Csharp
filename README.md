@@ -15,9 +15,10 @@ Este repositorio documenta mi aprendizaje en programación con C# y .NET. Incluy
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Geany](https://img.shields.io/badge/Geany-FFA500.svg?style=for-the-badge&logo=geany&logoColor=black)
 
-![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
-![Microsoft Learn](https://img.shields.io/badge/Microsoft_Learn-258ffa?style=for-the-badge&logo=microsoft&logoColor=white)
-![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/playlist?list=PL0bfr51v6JJEvSoAnCNYHM9b-75JQSoad&si=UoUExWHMjem6l9AK)
+[![Microsoft Learn](https://img.shields.io/badge/Microsoft_Learn-258ffa?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/es-mx/dotnet/csharp/)
+[![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/1TkyWBSrCXgh270gM50cHswZut5G7WTEG?usp=sharing)
+[![Freecodecamp](https://img.shields.io/badge/Google%20Drive-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/espanol/learn/foundational-c-sharp-with-microsoft/)
 
 </div>
 
