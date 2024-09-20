@@ -164,7 +164,7 @@ dotnet run
 
 - [ ] E04c - Ejemplos de string (11:40) https://youtu.be/okdGzVkqO7s
 
-- [ ] 042 - Ordenación de burbuja (BubbleSort) (12:34) https://youtu.be/rNUZ7A0iLdg
+- [x] 042 - Ordenación de burbuja (BubbleSort) (12:34) https://youtu.be/rNUZ7A0iLdg
 
 - [ ] Antiguo, des - 042 - Ordenación de burbuja (BubbleSort) (07:02) https://youtu.be/LulPDBJYgUE
 
