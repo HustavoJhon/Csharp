@@ -168,7 +168,7 @@ dotnet run
 
 - [ ] Antiguo, des - 042 - Ordenación de burbuja (BubbleSort) (07:02) https://youtu.be/LulPDBJYgUE
 
-- [ ] 043 - Otras ordenaciones sencillas: selección directa e inserción directa (09:37) https://youtu.be/dP75JsPCsJA
+- [x] 043 - Otras ordenaciones sencillas: selección directa e inserción directa (09:37) https://youtu.be/dP75JsPCsJA
 
 - [ ] 044 - Comparación de cadenas, Array.Sort (10:39) https://youtu.be/qGfP_XOuUhg
 
@@ -180,7 +180,7 @@ dotnet run
 
 - [ ] Contenido extra - Números al azar (05:42) https://youtu.be/JtYadZQn9JQ
 
-- [ ] 047 - Contacto con las funciones (11:15) https://youtu.be/snRh_75gIs8
+- [x] 047 - Contacto con las funciones (11:15) https://youtu.be/snRh_75gIs8
 
 - [ ] 048 - Funciones que devuelven un valor (09:45) https://youtu.be/_zvyPWdEFKQ
 
