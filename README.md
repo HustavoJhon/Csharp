@@ -182,7 +182,7 @@ dotnet run
 
 - [x] 047 - Contacto con las funciones (11:15) https://youtu.be/snRh_75gIs8
 
-- [ ] 048 - Funciones que devuelven un valor (09:45) https://youtu.be/_zvyPWdEFKQ
+- [x] 048 - Funciones que devuelven un valor (09:45) https://youtu.be/_zvyPWdEFKQ
 
 - [ ] 049 - Parámetros por valor y por referencia (12:19) https://youtu.be/hQ9x8EqiwtM
 
