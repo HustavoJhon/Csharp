@@ -184,7 +184,7 @@ dotnet run
 
 - [x] 048 - Funciones que devuelven un valor (09:45) https://youtu.be/_zvyPWdEFKQ
 
-- [ ] 049 - Parámetros por valor y por referencia (12:19) https://youtu.be/hQ9x8EqiwtM
+- [x] 049 - Parámetros por valor y por referencia (12:19) https://youtu.be/hQ9x8EqiwtM
 
 - [ ] 050 - Recursividad (21:51) https://youtu.be/oJ6MC62hS-o
 
