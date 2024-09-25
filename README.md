@@ -50,7 +50,17 @@ dotnet run
 
 </details>
 
+</details>
+<summary> Ignorar archivos `.cs` al compilar </summary>
 
+Los archivos `.cs` ubicados en la carpeta ignored están excluidos del proceso de compilación. Esto se logra mediante la configuración en el archivo `.csproj`:
+
+```xml
+<ItemGroup>
+  <Compile Remove="ignored\**\*.cs" />
+</ItemGroup>
+```
+</details>
 
 
 ### RESOURCES
