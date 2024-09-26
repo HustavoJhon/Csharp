@@ -37,3 +37,19 @@ Console.WriteLine("La potencia es: " + potencia);
 Console.WriteLine("La division entera es: " + divisionEntera);
 Console.WriteLine("El incremento es: " + incremento);
 Console.WriteLine("El decremento es: " + decremento);
+
+// =====================================================================
+
+//! OPERADORES DE INCREMENTO Y DECREMENTO - CALSE #5
+
+//? INCREMENTO
+int a = 0;
+a++;
+a+=5;
+Console.WriteLine(a);
+
+//? DECREMENTO 
+int b = 0;
+b--;
+b-=5;
+Console.WriteLine(b);
