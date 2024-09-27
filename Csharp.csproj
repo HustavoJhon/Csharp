@@ -8,8 +8,8 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Compile Remove="Tutorials\@Nacho_Cabanes\**\*.cs" />
-    <Compile Remove="Tutorials\@LaCasaInformatica\**\*.cs" />
+    <Compile Remove="Tutorials\**\*.cs" />
+    <Compile Remove="Projects\**\*.cs" />
   </ItemGroup>
 
 
