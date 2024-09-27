@@ -197,9 +197,9 @@ Los archivos `.cs` ubicados en la carpeta ignored están excluidos del proceso d
 
 - [x] 049 - Parámetros por valor y por referencia (12:19) https://youtu.be/hQ9x8EqiwtM
 
-- [ ] 050 - Recursividad (21:51) https://youtu.be/oJ6MC62hS-o
+- [x] 050 - Recursividad (21:51) https://youtu.be/oJ6MC62hS-o
 
-- [ ] 051 - Parámetros y valor de retorno de Main (09:07) https://youtu.be/GRqFnRBp9gU
+- [x] 051 - Parámetros y valor de retorno de Main (09:07) https://youtu.be/GRqFnRBp9gU
 
 - [ ] 052 - Ejemplo de funciones + array de struct: libros (18:33) https://youtu.be/TpplvQfYmvw
 
