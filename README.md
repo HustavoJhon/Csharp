@@ -201,9 +201,9 @@ Los archivos `.cs` ubicados en la carpeta ignored están excluidos del proceso d
 
 - [x] 051 - Parámetros y valor de retorno de Main (09:07) https://youtu.be/GRqFnRBp9gU
 
-- [ ] 052 - Ejemplo de funciones + array de struct: libros (18:33) https://youtu.be/TpplvQfYmvw
+- [x] 052 - Ejemplo de funciones + array de struct: libros (18:33) https://youtu.be/TpplvQfYmvw
 
-- [ ] 053 - Evitar código repetitivo. Parámetros vs argumentos (10:56) https://youtu.be/3-oxlKU0oiY
+- [x] 053 - Evitar código repetitivo. Parámetros vs argumentos (10:56) https://youtu.be/3-oxlKU0oiY
 
 - [ ] 054 - Parámetros con valor por defecto y parámetros con nombre (06:42) https://youtu.be/fAYDHVBDvDQ
 
