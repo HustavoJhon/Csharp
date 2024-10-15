@@ -205,7 +205,7 @@ Los archivos `.cs` ubicados en la carpeta ignored están excluidos del proceso d
 
 - [x] 053 - Evitar código repetitivo. Parámetros vs argumentos (10:56) https://youtu.be/3-oxlKU0oiY
 
-- [ ] 054 - Parámetros con valor por defecto y parámetros con nombre (06:42) https://youtu.be/fAYDHVBDvDQ
+- [x] 054 - Parámetros con valor por defecto y parámetros con nombre (06:42) https://youtu.be/fAYDHVBDvDQ
 
 - [ ] E05a - Ejemplos resueltos de funciones (10:45) https://youtu.be/HqD13D1izoI
 
