@@ -217,7 +217,7 @@ Los archivos `.cs` ubicados en la carpeta ignored están excluidos del proceso d
 
 - [x] 055 - Clases (1): Contacto con la Programación Orientada a Objetos (11:32) https://youtu.be/arF0Elhiutk
 
-- [ ] 056 - Clases (2): Ocultación de datos. Getters y setters (11:29) https://youtu.be/RJ_q7aZIOY4
+- [x] 056 - Clases (2): Ocultación de datos. Getters y setters (11:29) https://youtu.be/RJ_q7aZIOY4
 
 - [ ] 057 - Clases (3): Herencia (10:25) https://youtu.be/7gnco6OQKOA
 
