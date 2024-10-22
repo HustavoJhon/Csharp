@@ -219,7 +219,7 @@ Los archivos `.cs` ubicados en la carpeta ignored están excluidos del proceso d
 
 - [x] 056 - Clases (2): Ocultación de datos. Getters y setters (11:29) https://youtu.be/RJ_q7aZIOY4
 
-- [ ] 057 - Clases (3): Herencia (10:25) https://youtu.be/7gnco6OQKOA
+- [x] 057 - Clases (3): Herencia (10:25) https://youtu.be/7gnco6OQKOA
 
 - [ ] 058 - Clases (4): Visibilidad - public, private, protected (04:23) https://youtu.be/d0HksvA8_-g
 
