@@ -1,33 +1,36 @@
-<div align="center">
+<p align="center">
 
-# C sharp
+# @Nacho_Cabanes
 
-<span>
-Este repositorio documenta mi aprendizaje en programación con C# y .NET. Incluye proyectos, recursos, y ejemplos prácticos, desde los fundamentos hasta la creación de APIs REST con .NET 8
-<span>
-
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-
----
-
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
-![Geany](https://img.shields.io/badge/Geany-FFA500.svg?style=for-the-badge&logo=geany&logoColor=black)
-
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/playlist?list=PL0bfr51v6JJEvSoAnCNYHM9b-75JQSoad&si=UoUExWHMjem6l9AK)
-
+<samp>
+<div align="left">
+    <img  alt="gif" width="150px" align="left" src="../../doc/Tutorials/ncabanes.png" />
 </div>
 
-### RESOURCES
+<div align="center">
 
-#### 🎥 Video
+Nacho Cabanes es un profesor y programador español, experto en C# y enseñanza de programación a nivel secundario en Alicante. Autor de cursos y recursos gratuitos sobre C#, combina su labor tecnológica con intereses creativos como la fotografía y la cerámica, y ha estudiado idiomas como inglés y francés.
+[![Github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/ncabanes)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/playlist?list=PL0bfr51v6JJEvSoAnCNYHM9b-75JQSoad&si=UoUExWHMjem6l9AK)
+[![Udemy](https://img.shields.io/badge/Udemy-A435F0.svg?style=for-the-badge&logo=Udemy&logoColor=white)](https://www.udemy.com/user/nacho-cabanes/?srsltid=AfmBOooon7Cz8VquKVdi5xMrcn1k5pEHI-3rRS2p0O58b3KaPUhCT93V)
+ 
+</div>
+</samp>
+</p>
+
+### Cources
+
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+[![.NET](https://img.shields.io/badge/.NET-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white)]()
+
+### Videos
     
 <details>
 <summary> Fundamentos de programacion en C# </summary>
 
-[VIDEO](https://www.youtube.com/watch?v=iPupY75BEvo&list=PL0bfr51v6JJEvSoAnCNYHM9b-75JQSoad)
+1. [Playlist Youtube](https://www.youtube.com/watch?v=iPupY75BEvo&list=PL0bfr51v6JJEvSoAnCNYHM9b-75JQSoad)
 
-> Nacho Cabanes [github](https://github.com/ncabanes)
+2. [Repository Github](https://github.com/ncabanes/cursosYouTube/tree/master/csharp2020)
 
 - [x] 001 - Lenguajes y programas (08:38) https://youtu.be/iPupY75BEvo
 
@@ -321,61 +324,9 @@ Este repositorio documenta mi aprendizaje en programación con C# y .NET. Incluy
 
 </details>
 
-<details>
-<summary> .NET 8 - API REST </summary>
+---
 
-> Informatica DP [github](https://github.com/infodp)
-[Video 2](https://www.youtube.com/watch?v=iPupY75BEvo&list=PL0bfr51v6JJEvSoAnCNYHM9b-75JQSoad)
-
-- [ ] 00:00 - Intro
-
-- [ ] 01:51 - ¿Qué vamos a obtener?
-
-- [ ] 05:32 - Creación del proyecto
-
-- [ ] 07:36 - .Net ¿Qué es?
-
-- [ ] 07:56 - Net, Net Core, ASP. NET
-
-- [ ] 09:35 - Archivo del proyecto
-
-- [ ] 12:08 - NuGet  ¿Qué es?
-
-- [ ] 13:04 - Archivo Progam.cs
-
-- [ ] 16:17 - Probando el ejemplo el controller por defecto
-
-- [ ] 18:29 - Swagger ¿Qué es?
-
-- [ ] 20:31 - Modelo
-
-- [ ] 23:22 - Paquete Entity FrameWork Core
-
-- [ ] 24:48 - Contexto
-
-- [ ] 25:57 - DbContext ¿Qué es?
-
-- [ ] 28:27 - Constructor ¿Para qué sirve?
-
-- [ ] 30:39 - DbSet ¿Qué es?
-
-- [ ] 32:27 - Conexión a la DB
-
-- [ ] 34:56 - Paquete Entity FrameWork Core Sql Server
-
-- [ ] 37:41 - Migraciones
-
-- [ ] 37:50 - Paquete Entity FrameWork Core Tools
-
-- [ ] 40:57 - DB desde Sql Server Management Studio
-
-- [ ] 43:15 - Controlador
-
-- [ ] 45:50 - Probando nuestra API
-
-- [ ] 49:29 - Despedida
-
-</details>
+### Tools
 
 1. [Visual Studio](https://visualstudio.microsoft.com/)
 2. [Geany - The Flyweaght IDE](https://www.geany.org/)
