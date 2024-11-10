@@ -327,8 +327,6 @@ Nacho Cabanes es un profesor y programador español, experto en C# y enseñanza 
 
 </details>
 
----
-
 ### Tools
 
 1. [Visual Studio](https://visualstudio.microsoft.com/)
