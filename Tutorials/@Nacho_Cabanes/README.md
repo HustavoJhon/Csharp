@@ -10,6 +10,7 @@
 <div align="center">
 
 Nacho Cabanes es un profesor y programador español, experto en C# y enseñanza de programación a nivel secundario en Alicante. Autor de cursos y recursos gratuitos sobre C#, combina su labor tecnológica con intereses creativos como la fotografía y la cerámica, y ha estudiado idiomas como inglés y francés.
+
 [![Github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/ncabanes)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/playlist?list=PL0bfr51v6JJEvSoAnCNYHM9b-75JQSoad&si=UoUExWHMjem6l9AK)
 [![Udemy](https://img.shields.io/badge/Udemy-A435F0.svg?style=for-the-badge&logo=Udemy&logoColor=white)](https://www.udemy.com/user/nacho-cabanes/?srsltid=AfmBOooon7Cz8VquKVdi5xMrcn1k5pEHI-3rRS2p0O58b3KaPUhCT93V)
@@ -325,8 +326,6 @@ Nacho Cabanes es un profesor y programador español, experto en C# y enseñanza 
 - [ ] 123 - Nociones de MonoGame 07: Sonidos (08:30) https://youtu.be/B3ida5wBWCE
 
 </details>
-
----
 
 ### Tools
 
