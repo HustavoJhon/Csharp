@@ -10,6 +10,7 @@
   <ItemGroup>
     <Compile Remove="Tutorials\**\*.cs" />
     <Compile Remove="Projects\**\*.cs" />
+    <Compile Remove="Docs\**\*.cs" />
   </ItemGroup>
 
 
