@@ -70,3 +70,61 @@ En el proceso de instalacion nos pedira instalar los paquetes con los que deseam
 El tipo de datos es el que le dice al compilador de c# que tipo de valor puede almacenar una variable. Ademas, c# es un lenguaje fuertemente tipado lo que significa que el valor de una variable de un tipo concreto, no se puede usar como si fuera de otra tipo.
 
 int, bool, float, double, char, string, long, uint
+
+## LA PALABRA RESERVADA VAR
+
+La palabra clave var permite declarar una variable local (dentro de un método o un bucle) sin indicar explícitamente el tipo de datos - en cambio, el compilador de C# infiere el tipo desde la parte derecha de la declaración.
+
+++¿Cuándo usar var en C#?++ Puedes usar var en cualquier momento en que la inicialización de la variable te indica claramente qué valores contendrá la variable.
+
+Ten en cuenta que, en todos estos casos, los nombres de las variables deben ser descriptivos y el inicializador debe ser claro. También pluraliza enumeraciones y arreglos.
+
+++Ejemplos++ Por ejemplo, lo siguiente declara una variable e inicializa su valor como una cadena de texto:
+
+```csharp
+string message = "Hola";
+```
+
+En este ejemplo, usamos el tipo string para la variable message al comienzo de la declaración y una cadena de texto como valor inicial. La variable message es de tipo explícito.
+
+Sin embargo, a partir del valor "Hola", el compilador puede inferir la variable como una cadena. Por lo tanto, el tipo explícito al comienzo de la declaración es redundante.
+
+Para evitar esta redundancia, puedes usar la palabra clave var en lugar del tipo explícito al comienzo de la declaración de la variable de esta manera:
+
+```csharp
+var message = "Hola";
+```
+
+En este ejemplo, el message es una variable de tipo implícito.
+
+La palabra clave var no indica un tipo especial de variable. Es una forma abreviada sintáctica de cualquier tipo que el compilador pueda inferir a partir de la inicialización de una declaración de variable.
+
+En el ejemplo anterior, var es la abreviatura del tipo string.
+
+Una vez que el compilador puede inferir el tipo de la variable, es fijo e inmutable. Por ejemplo, no puedes asignar un número entero a la variable message de esta manera:
+
+```csharp
+var message = "Hola";
+message = 100; // error
+```
+
+C# solo permite usar la palabra clave var con una variable que incluye una inicialización. Lo siguiente resultará en un error:
+
+```csharp
+var amount;
+
+Error: Implicitly typed variables must be initialized
+```
+## Operador Aritmeticos
+<aside> 📌 Podemos comentar en el editor con `//`, lo que permite ingresar anotaciones para nosotros y otros colaboradores con los que estemos trabajando. Dichos comentarios no afectan a la ejecución del código y también pueden servir para sacar alguna porción de nuestro trabajo para que no se ejecute pero sin necesidad de borrarlo </aside>
+• El doble slash sirve para comentar UNA línea pero no si queremos hacer saltos de línea. En este último caso lo haremos con /* */
+
+Originalmente las computadoras se usaban para realizar calculos muy bestiales por lo que tenemos a disposición multitud de signos que podemos usar para nuestros cálculos:
+
+Suma: +
+Resta: -
+Multiplicación: *
+División: /
+Módulo o Resto (lo que te quedaba de una división): %
+Incremento (sería un +1): ++
+Decremento (-1): –
