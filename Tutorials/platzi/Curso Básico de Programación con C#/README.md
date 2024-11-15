@@ -65,3 +65,8 @@ Lo mas recomendable es usar el IDE de Visual Studio pero en cualquiera de los ca
 
 En el proceso de instalacion nos pedira instalar los paquetes con los que deseamos trabajar y el tema de VS.
 
+## Tipos de datos primitivos
+
+El tipo de datos es el que le dice al compilador de c# que tipo de valor puede almacenar una variable. Ademas, c# es un lenguaje fuertemente tipado lo que significa que el valor de una variable de un tipo concreto, no se puede usar como si fuera de otra tipo.
+
+int, bool, float, double, char, string, long, uint
