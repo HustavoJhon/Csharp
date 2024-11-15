@@ -31,3 +31,15 @@ Aprender C# es importante debido a su popularidad, versatilidad, facilidad de ap
 1. Es un lenguaje de programación popular y versátil que se utiliza en una variedad de aplicaciones, incluyendo desarrollo de juegos, aplicaciones de escritorio y móviles, y desarrollo web.
 2. Es un lenguaje de programación de Microsoft, lo que significa que es compatible con una variedad de herramientas y tecnologías de Microsoft, como Visual Studio y .NET Framework.
 3. Es un lenguaje de programación moderno que tiene una sintaxis fácil de aprender y ofrece características avanzadas, como programación orientada a objetos y manejo automático de memoria.
+
+## ¿Que son los algoritmos?
+
+Un algoritmo es un conjunto de instrucciones que se resuelve paso a paso y sin ambiguedades. Tendremos una serie de objetos o elementos en nuestros programas y tambien tendremos una logica una serie de pasos a seguir para que el software se comporte de la forma esperada. Esta logica o estos pasos a seguir es lo que se conoce como algoritmos.
+
+Se denomina algoritmo a un grupo finito de operaciones organizadas de manera lógica y ordenada que permite solucionar un determinado problema. Se trata de una serie de instrucciones o reglas establecidas que, por medio de una sucesión de pasos, permiten arribar a un resultado o solución.
+
+++Propiedades de los algoritmos++
+
+Existen ciertas propiedades que alcanzan a todos los algoritmos, con excepción de los denominados algoritmos paralelos: el tiempo secuencial (los algoritmos funcionan paso a paso), el estado abstracto (cada algoritmo es independiente de su implementación) y la exploración acotada (la transición entre estados queda determinada por una descripción finita y fija).
+
+Cabe mencionar que los algoritmos son muy importantes en la informática ya que permiten representar datos como secuencias de bits. Un programa es un algoritmo que indica a la computadora qué pasos específicos debe seguir para desarrollar una tarea.
