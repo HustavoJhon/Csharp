@@ -32,3 +32,31 @@
 17. Que es una interfaz?
 18. Usando interfaces
 19. Interfaces vs Clases abstractas
+
+## Prerrequisitos
+- Conocimientos de C# y .NET
+- .NET 7 o superior
+- Visual Studio Code o Visual Studio
+
+## Que es la programacion orientada a objetos (POO)?
+
+- Formas o estilos en los que podemos programar y estructurar nuestro código.
+
+**Paradigmas importantes:**
+
+- Programación funcional
+- Programación estructurada
+- Programación reactiva
+- Programación orientada a aspectos
+- Programación orientada a objetos
+
+C# es multi-paradigma, el cual nos permite usar multiples estilos de programación. Lo común en C# es mezclar varios paradigmas al escribir el código.
+
+El paradigma de la programación orientada a objetos suele ser uno de los más importantes, la mayoria de componentes o librerias de C# se basan en este paradigmna.
+
+**Conceptos de POO - OOP:**
+
+- Paradigma de la programación.
+- El objetivo es extraer elementos de la realidad a los algoritmos en nuestro código.
+- Basado en clases y objetos.
+Las clases serían las plantillas o estructuras que se van a reutilizar para poder crear los objetos.
