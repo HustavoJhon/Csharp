@@ -87,6 +87,7 @@ Los archivos `.cs` ubicados en la carpeta ignored están excluidos del proceso d
 ### Resources
 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/playlist?list=PL0bfr51v6JJEvSoAnCNYHM9b-75JQSoad&si=UoUExWHMjem6l9AK)
+![Platzi](https://img.shields.io/badge/Platzi-98CA3F.svg?style=for-the-badge&logo=Platzi&logoColor=white)
 
 #### 📃 Documentation
 

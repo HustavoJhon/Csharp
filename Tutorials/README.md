@@ -1,6 +1,7 @@
 # Tutorials
 
-1. **@Nacho Cabanes**
-    - Fundamentos de Programacion en C#
+## youtube
 
-2. **@La Casa Informática**
+1. @Nacho_cabanes
+2. LaCasaInformatica
+3. hdeleon.net
