@@ -179,34 +179,3 @@ En cuánto a las librerías…
 ¡No te preocupes! Microsoft y otros grandes desarrolladores mantienen un ecosistema de paquetes saludable construido en standard .NET así que por ese lado tampoco tendrás problemas.
 
 </details>
-
-## Fundamentos
-
-1. Fundamentos de Programacion Orientada a Objetos con C#
-2. Prerequisitos
-3. Que es programacion orientada a objetos?
-4. Creando tu primera clase y objeto
-5. Concepto de clases y objetos
-6. Creando clases y propiedades
-7. Creando clases complejas
-
-### Trabajando con clases
-
-8. Constructor y datos iniciales en una clase
-9. Metodos dentro de una clase
-10. Tipos registro de acceso
-11. Modificadores de acceso
-
-### Concepto clave en POO
-
-12. Encapsulamiento
-13. Que es herencia?
-14. Usando herencia en C#
-15. Abstraccion
-16. Polimorfismo
-
-### Trabajando con interfaces
-
-17. Que es una interfaz?
-18. Usando interfaces
-19. Interfaces vs Clases abstractas
