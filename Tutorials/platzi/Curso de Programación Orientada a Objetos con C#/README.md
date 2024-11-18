@@ -59,4 +59,4 @@ El paradigma de la programación orientada a objetos suele ser uno de los más i
 - Paradigma de la programación.
 - El objetivo es extraer elementos de la realidad a los algoritmos en nuestro código.
 - Basado en clases y objetos.
-Las clases serían las plantillas o estructuras que se van a reutilizar para poder crear los objetos.
+Las clases serían las plantillas o estructuras que se van a reutilizar para poder crear los objetos.   
