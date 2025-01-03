@@ -9,10 +9,8 @@
 
   <ItemGroup>
     <Compile Remove="Commands\**\*.cs" />
-    <Compile Remove="Tutorials\**\*.cs" />
     <Compile Remove="Projects\**\*.cs" />
-    <Compile Remove="Docs\**\*.cs" />
-	<Compile Remove="Book\**\*.cs" />
+    <Compile Remove="resources\**\*.cs" />
   </ItemGroup>
 
 
