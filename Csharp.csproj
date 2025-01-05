@@ -12,5 +12,4 @@
     <Compile Remove="resources\**\*.cs" />
   </ItemGroup>
 
-
 </Project>
