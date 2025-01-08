@@ -4,7 +4,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README">
-    <img src="./doc/Logo_C_sharp.svg.png" alt="Logo" width="100" height="100">
+    <img src="./doc/Logo_C_sharp.png" alt="Logo" width="100" height="100">
   </a>
 
   <h3 align="center">C sharp</h3>
