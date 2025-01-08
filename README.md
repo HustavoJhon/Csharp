@@ -28,17 +28,12 @@
 Csharp
 ------
 │  
-├── Tutorials
-│   ├── @Nacho_Cabanes
-│   ├── @LaCasaInformatica
-│   └── @hdeleon.net
+├── doc
+├── projects
+├── resources
+│   ├── command
+│   └── video
 │
-├── Projects 
-│    ├── Operators
-│    ├── Conditionals
-│    ├── Loops
-│    ├── Functions
-│    └── Modules
 ├── Csharp.csproj
 ├── Csharp.sln
 └── .gitignore
