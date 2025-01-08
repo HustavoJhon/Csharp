@@ -1,7 +1,18 @@
 # Tutorials
 
-## youtube
+```bash
+youtube
+------
+│  
+├── @Nacho_cabanes
+├── @LaCasaInformatica
+└── @hdeleon.net
+```
 
-1. @Nacho_cabanes
-2. LaCasaInformatica
-3. hdeleon.net
+```bash
+platzi
+------
+│  
+├── Curso Básico de Programación con C#
+└── Curso de Programación Orientada a Objetos con C#
+```
