@@ -1,9 +1,11 @@
-// 005 - DATOS INTRODUCIDOS POR EL USUARIO 
+//! 005 - DATOS INTRODUCIDOS POR EL USUARIO 
 
-// Variables
-// Espacio en el que guardar informacion
-// Se les asocia un nombre
-// Se les asocia un "Tipo de Datos"
+/*
+* Variables
+* Espacio en el que guardar informacion
+* Se les asocia un nombre
+* Se les asocia un "Tipo de Datos"
+*/
 
 int a,b;
 
