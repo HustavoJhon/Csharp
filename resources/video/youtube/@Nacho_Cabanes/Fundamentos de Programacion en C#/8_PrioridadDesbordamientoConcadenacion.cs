@@ -1,4 +1,5 @@
-// 008 - PRIORIDAD, DESBORDAMIENTO {0} {1}
+//! 008 - PRIORIDAD, DESBORDAMIENTO {0} {1}
+
 using System;
 
 class Prioridad
@@ -15,7 +16,7 @@ class Prioridad
         // Concadenacion de datos con {} por indice
         Console.WriteLine("La suma de {0} y {1} es: {2}", a, b, a+b);
         
-        // PRIORIDAD
+        // Prioridad
         Console.WriteLine(2+3*5); //multiplicaciones > divisiones > suma > resta
         
         // Desbordamiento
