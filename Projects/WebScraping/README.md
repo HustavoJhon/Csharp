@@ -1,5 +1,7 @@
 # **RPA con Selenium para Automatización de Portales Web**
 
+Este proyecto utiliza **Selenium** con C# para automatizar la extracción de información de portales web, específicamente simulando acciones de usuario en el portal de la **SUNAT**.
+
 ![SCRAPY](https://img.shields.io/badge/Scrapy-60A839.svg?style=for-the-badge&logo=Scrapy&logoColor=white)
 ![SELENIUM](https://img.shields.io/badge/Selenium-43B02A.svg?style=for-the-badge&logo=Selenium&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white)
@@ -14,7 +16,27 @@
 [Web Scraping en .NET con Selenium](https://www.youtube.com/watch?v=TpNDSyDnUwc)
 </details>
 
-Este proyecto utiliza **Selenium** con C# para automatizar la extracción de información de portales web, específicamente simulando acciones de usuario en el portal de la **SUNAT**.
+## Ejercicios
+
+<details>
+<summary> HackerNewsTitleExtractor </summary>
+
+```cs
+dotnet --list-sdks
+
+dotnet new console -n HackerNewsTitleExtractor --framework net8.0
+cd HackerNewsTitleExtractor
+
+dotnet new globaljson --skd-version 8.0.404
+
+dotnet add package Selenium.WebDriver
+dotnet add package Selenium.WebDriver.ChromeDriver
+
+// problem solution
+sudo apt-get install -y chromium-driver
+```
+
+</details>
 
 ## **Definición de Selenium**
 

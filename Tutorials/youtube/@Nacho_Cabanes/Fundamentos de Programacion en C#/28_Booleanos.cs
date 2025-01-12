@@ -11,7 +11,7 @@
 * Valor a partir de una condicion
 
 if (numero == oculto)
-eocnotrado = true;
+encontrado = true;
 else
 eocnotrado = false;
 

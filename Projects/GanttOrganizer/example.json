@@ -1,0 +1,23 @@
+[                                                                             
+      {                                                                           
+        "id": 1,                                                                  
+        "padre": null,                                                            
+        "titulo": "Primer elemento",                                              
+        "fechaInicio": "2024-01-01",                                              
+        "fechaFin": "2024-02-03"                                                  
+      },                                                                          
+      {                                                                           
+        "id": 3,                                                                  
+        "padre": 1,                                                               
+        "titulo": "Tercer elemento",                                              
+        "fechaInicio": "2024-01-24",                                              
+        "fechaFin": "2024-02-01"                                                  
+      },                                                                          
+      {                                                                           
+        "id": 4,                                                                  
+        "padre": 3,                                                               
+        "titulo": "Cuarto elemento",                                              
+        "fechaInicio": "2024-01-01",                                              
+        "fechaFin": "2024-02-01"                                                  
+      }                                                                           
+] 
