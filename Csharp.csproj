@@ -8,8 +8,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Compile Remove="Commands\**\*.cs" />
-    <Compile Remove="Projects\**\*.cs" />
+    <Compile Remove="projects\**\*.cs" />
     <Compile Remove="resources\**\*.cs" />
   </ItemGroup>
 
